@@ -1,0 +1,8 @@
+ python-fasthtml
+ bcrypt
+ starlette-limiter
+ markdown
+ anthropic
+ openai-whisper
+ elevenlabs
+ openai
